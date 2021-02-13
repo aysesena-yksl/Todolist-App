@@ -37,29 +37,8 @@ function set_todos($todos){
     $data_content = json_encode($todos);
     file_put_contents(__DIR__.'/data.json', $data_content);
 
-}/*
-function update_todo($todo_index){
-    $todos = get_todos();
-    if($todos['todo_index'] = !$todos['todo_index']){
-        file_put_contents('todo.json', json_encode($todos, JSON_PRETTY_PRINT));
-
-    }else{
-        set_todos();
-    }
 }
-/*
-function delete_todo($todo_index){
-    $todos = get_todos();
-    if(!isset($todos[$todo_index])) {
-        return;
-    }
 
-    unset($todos[$todo_index]);
-    $todos = array_values($todos);
-    set_todos($todos);
-
-
-}*/
 function update($todo)
 {
     $data_content = json_encode($todo);
