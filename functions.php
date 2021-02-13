@@ -15,18 +15,7 @@ function time_of_day(){
     }
     return  'Night';
 }
-function greeting($time_of_day){
-    $greetings = [
-        'morning '=> 'Haydi kalk ve bir kahve iç',
-        'afternoon' => 'Biraz yürüyüş ?',
-        'night' => 'Çok geç oldu, dinlenmelisin'
-    ];
 
-    $greeting_key = strtolower($time_of_day);
-
-    return $greetings[$greeting_key];
-
-}
 function redirect($url)
 {
     header('Location: ' . $url);
