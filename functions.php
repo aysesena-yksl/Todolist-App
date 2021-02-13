@@ -21,17 +21,17 @@ function redirect($url)
     header('Location: ' . $url);
     exit();
 }
-function is_json($string){
+/* function is_json($string){
     json_decode($string);
     return (json_last_error() == JSON_ERROR_NONE);
 
-}
+}  */
 function get_todos(){
     $data_content = file_get_contents(__DIR__.'/data.json');
-    if(is_json($data_content)) {
+    
         return json_decode($data_content);
-    }
-    return [];
+    
+   
 }
 function set_todos($todos){
     $data_content = json_encode($todos);
