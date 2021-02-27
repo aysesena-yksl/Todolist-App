@@ -1,7 +1,7 @@
 # Php Örnek Todo Uygulaması
 
 Php ile gerçekleştirilen bir todo uygulamasıdır.
-Günün saatine göre hitap şeklinde bulunan, günlük rutin olarak yapılacak maddelerin bir json dosyasına ekleneceği, eklenen maddelerin listeleneceği, yapıldıktan sonra maddelerin silinebileceği bir uygulamadır.
+Günün saatine göre hitap şeklinde bulunan, günlük rutin olarak yapılacak maddelerin bir json dosyasına eklendiği, eklenen maddelerin listelendiği ve  tamamlandıktan sonra maddelerin silinebileceği  bir uygulamadır.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
