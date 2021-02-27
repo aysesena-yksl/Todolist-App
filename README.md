@@ -10,4 +10,5 @@ PHP (açılımı PHP: Hypertext Preprocessor) geniş bir kitle tarafından kulla
 
 # Ekran Görüntüsü :
 
-![](https://github.com/aysesena-yksl/Todolist-App/blob/main/todo..PNG))
+![](https://github.com/aysesena-yksl/Todolist-App/blob/main/todo..PNG)
+![](https://github.com/aysesena-yksl/Todolist-App/blob/main/todo...PNG)
