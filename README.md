@@ -9,5 +9,5 @@ Php ile gerçekleştirilen  yapılacak maddelerin ekleneceği, eklenen maddeleri
 PHP (açılımı PHP: Hypertext Preprocessor) geniş bir kitle tarafından kullanılan, özellikle sanal yöreler üzerinde geliştirme için tasarlanmış HTML içine gömülebilen bir betik dilidir.
 
 # Ekran Görüntüsü :
-https://github.com/aysesena-yksl/Todolist-App/todo.PNG
+https://github.com/aysesena-yksl/Todolist-App/todo..PNG
 
